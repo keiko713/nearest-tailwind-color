@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@netlify/functions": "^1.4.0",
+    "nearest-colors": "^1.0.0"
+  }
+}
